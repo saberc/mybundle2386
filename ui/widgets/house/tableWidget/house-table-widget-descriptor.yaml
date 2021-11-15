@@ -1,0 +1,6 @@
+code: house-table-widget
+titles:
+  en: House Table Widget
+  it: House Table Widget
+group: free
+customUiPath: house-table-widget.ftl

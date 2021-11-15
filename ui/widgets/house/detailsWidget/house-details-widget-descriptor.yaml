@@ -1,0 +1,6 @@
+code: house-details-widget
+titles:
+  en: House Details Widget
+  it: House Details Widget
+group: free
+customUiPath: house-details-widget.ftl

@@ -1,0 +1,8 @@
+descriptorVersion: v3
+image: saberc/mybundle-2386:0.0.1-SNAPSHOT
+dbms: postgresql
+healthCheckPath: "/management/health"
+roles:
+  - "mybundle2386-admin"
+  - "house-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
