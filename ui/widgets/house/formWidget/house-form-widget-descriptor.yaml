@@ -1,0 +1,6 @@
+code: house-form-widget
+titles:
+  en: House Form Widget
+  it: House Form Widget
+group: free
+customUiPath: house-form-widget.ftl

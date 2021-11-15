@@ -1,0 +1,13 @@
+code: mybundle2386-bundle
+description: This is the mybundle2386 bundle
+
+components:
+  plugins:
+    - plugins/mybundle2386-plugin.yaml
+
+  widgets:
+    - ui/widgets/house/tableWidget/house-table-widget-descriptor.yaml
+    - ui/widgets/house/detailsWidget/house-details-widget-descriptor.yaml
+    - ui/widgets/house/formWidget/house-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
